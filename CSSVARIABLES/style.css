@@ -1,0 +1,15 @@
+:root{
+    --main-color:yellow;
+    --padding-size: 10px;
+
+}
+.box{
+    background-color: var(--main-color);
+    padding: var(--padding-size);
+    border: 1px dashed red;
+    width: 300px;
+    font-weight: bold;
+    margin: 20px auto;
+    text-align: center;
+    color: #101010;
+}

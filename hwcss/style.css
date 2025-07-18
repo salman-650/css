@@ -1,0 +1,138 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border-radius: 2px;
+}
+
+body {
+    background-color: rgb(0, 48, 56);
+    color: rgb(215, 216, 216);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.discription h4 {
+    padding: 6px;
+    color: rgb(221, 220, 220);
+}
+
+.discription p {
+    padding: 6px;
+    color: lightgray;
+}
+
+header {
+    text-align: center;
+    margin-top: 40px;
+}
+section {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.blue {
+    color: lightskyblue;
+}
+
+.container {
+    margin: 20px;
+    display: inline-block;
+}
+
+.block,
+.inline,
+.inline-block {
+    background-color: rgb(1, 112, 112);
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+    /* padding: 5px; */
+    display: inline-block;
+}
+
+.block1 {
+    width: 180px;
+    height: 70px;
+    background-color: lightgreen;
+    margin: 10px;
+}
+.block2 {
+    width: 180px;
+    height: 60px;
+    background-color: violet;
+    margin: 10px;
+}
+.block3 {
+    width: 100px;
+    height: 60px;
+    background-color: orange;
+    margin: 10px;
+}
+.block4 {
+    width: 200px;
+    height: 60px;
+    background-color: lightskyblue;
+    margin: 10px;
+}
+
+.inline1 {
+    width: 180px;
+    height: 60px;
+    background-color: lightgreen;
+    margin: 10px 5px;
+    display: inline-block;
+}
+.inline2 {
+    width: 180px;
+    height: 60px;
+    background-color: violet;
+    margin: 10px 5px;
+    display: inline-block;
+
+}
+.inline3 {
+    width: 100px;
+    height: 60px;
+    background-color: orange;
+    margin: 0px 5px;
+    display: inline-block;
+
+}
+.inline4 {
+    width: 260px;
+    height: 60px;
+    background-color: lightskyblue;
+    margin: 0px 5px;
+    display: inline-block;
+}
+
+.ib1 {
+    width: 180px;
+    height: 90px;
+    background-color: lightgreen;
+    margin: 10px 5px;
+    display: inline-block;
+}
+.ib2 {
+    width: 180px;
+    height: 60px;
+    background-color: violet;
+    margin: 10px 5px;
+    display: inline-block;
+
+}
+.ib3 {
+    width: 100px;
+    height: 60px;
+    background-color: orange;
+    margin: 0px 5px;
+    display: inline-block;
+
+}
+.ib4 {
+    width: 260px;
+    height: 100px;
+    background-color: lightskyblue;
+    margin: 0px 5px;
+    display: inline-block;
+}
